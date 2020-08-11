@@ -11,7 +11,11 @@ Berikut adalah metode HTTP yang umum dipakai dalam REST API:
 DELETE, digunakan untuk menghapus data dari server REST.
 OPTIONS, digunakan untuk mendapatkan operasi yang didukung pada data dari server REST.
 Mari, setelah beberapa pengertian singkat ini, kita langsung menuju coding Node.js dengan Postman!
+
+
 ![Alt Text](https://github.com/divamaretta/NodeJS-RestAPI/blob/master/DOWNLOAD%20POSTMAN.PNG)
+
+
 Setelah proses instalasi, kitapun siap untuk melakukan coding dengan Node.js. Berikut langkah-langkahnya:
 1.Silahkan buat folder baru.
 2.Buka CLI/Terminal anda di folder tersebut, dan ketikkan “npm init –y” , untuk membuat file “package.json”.
