@@ -23,3 +23,5 @@ Setelah proses instalasi, kitapun siap untuk melakukan coding dengan Node.js. Be
 Di projek ini, kita memerlukan beberapa dependencies, yaitu Express.js, dan body-parser (untuk menerima request variabel post dengan mudah sebagai suatu parameter).
 
 3.Maka dari itu, silahkan jalankan kode ini di CLI/Terminal anda untuk menginstall dependencies yang diperlukan: “npm install express body-parser --save” *mongoose tidak perlu di-install
+![Alt Text](https://github.com/divamaretta/NodeJS-RestAPI/blob/master/Screenshot%20(49).png)
+![Alt Text](https://github.com/divamaretta/NodeJS-RestAPI/blob/master/Screenshot%20(50).png)
